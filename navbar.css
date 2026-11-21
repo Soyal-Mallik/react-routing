@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav-bar{
+    height: 10vh;
+    background-color: cadetblue;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    box-shadow: inset 0 0 5px rgb(0,0,0,0.5) ;
+}
+
+.nav-link{
+    color: azure;
+    text-decoration: none;
+    font-size: 20px;
+    border-bottom: 2px solid transparent;
+    transition: 0.3s ease;
+}
+
+.nav-link:hover{
+    border-bottom-color: azure ;
+}
