@@ -21,6 +21,7 @@ export default function Routing() {
         <Route path='/service' element={<Service />}></Route>
       </Routes>
       </BrowserRouter>
+      
     </div>
   )
 }

@@ -1,3 +1,4 @@
 This is test one.
 I have complette my Btech from GCECT
 My CGPA is 8.23
+I am starting my fullstack journey from 2023
